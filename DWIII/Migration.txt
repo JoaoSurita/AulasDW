@@ -1,0 +1,10 @@
+Gera migration
+Não pode ter erro de compilação, portanto o projeto deve ser compilado antes.
+
+Add-Migration nome_da_migration 
+
+para gerar o banco
+
+Como usaremos MySQL o xampp deve estar ativo apache e MySQL.
+
+Update-Database
