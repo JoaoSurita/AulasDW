@@ -107,6 +107,10 @@ namespace SistemaAcademico.Migrations
 
                     b.HasKey("MatriculaId");
 
+                    b.HasIndex("AlunoId");
+
+                    b.HasIndex("CursoId");
+
                     b.ToTable("Matriculas");
                 });
 
@@ -150,6 +154,25 @@ namespace SistemaAcademico.Migrations
                         .HasForeignKey("CursoId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Curso");
+                });
+
+            modelBuilder.Entity("SistemaAcademico.Models.Matricula", b =>
+                {
+                    b.HasOne("SistemaAcademico.Models.Aluno", "Aluno")
+                        .WithMany()
+                        .HasForeignKey("AlunoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("SistemaAcademico.Models.Curso", "Curso")
+                        .WithMany()
+                        .HasForeignKey("CursoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Aluno");
 
                     b.Navigation("Curso");
                 });
