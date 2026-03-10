@@ -48,7 +48,7 @@ namespace SistemaAcademico.controllers
         // GET: Disciplinas/Create
         public IActionResult Create()
         {
-            ViewData["CursoId"] = new SelectList(_context.Cursos, "CursoId", "CursoId");
+            ViewData["CursoId"] = new SelectList(_context.Cursos, "CursoId", "Nome");
             return View();
         }
 
@@ -82,7 +82,7 @@ namespace SistemaAcademico.controllers
             {
                 return NotFound();
             }
-            ViewData["CursoId"] = new SelectList(_context.Cursos, "CursoId", "CursoId", disciplina.CursoId);
+            ViewData["CursoId"] = new SelectList(_context.Cursos, "CursoId", "Nome", disciplina.CursoId);
             return View(disciplina);
         }
 
