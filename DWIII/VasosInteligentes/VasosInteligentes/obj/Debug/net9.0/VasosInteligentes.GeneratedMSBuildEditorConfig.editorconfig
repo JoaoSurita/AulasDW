@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VasosInteligentes
 build_property.RootNamespace = VasosInteligentes
@@ -24,8 +32,24 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Plantas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Plantas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Plantas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Plantas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Plantas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Shared/Error.cshtml]
@@ -34,6 +58,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Vasos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFzb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Vasos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFzb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Vasos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFzb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Vasos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFzb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/Vasos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFzb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/0201392511020/Desktop/AulasDW/DWIII/VasosInteligentes/VasosInteligentes/Views/_ViewImports.cshtml]

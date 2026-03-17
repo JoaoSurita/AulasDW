@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\controllers\\vasoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\controllers\\vasoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\views\\vasos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\vasos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\views\\vasos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\vasos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\controllers\\plantascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\controllers\\plantascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\views\\plantas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\plantas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\data\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\data\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\data\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +55,16 @@
       "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\planta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\data\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\data\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57262C55-F281-4298-AE6B-459B7D91356F}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +74,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\appsettings.json",
-              "RelativeDocumentMoniker": "VasosInteligentes\\appsettings.json",
-              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\appsettings.json",
-              "RelativeToolTip": "VasosInteligentes\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-10T15:27:49.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Program.cs",
-              "RelativeDocumentMoniker": "VasosInteligentes\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Program.cs",
-              "RelativeToolTip": "VasosInteligentes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T15:27:32.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FakeContext.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Data\\FakeContext.cs",
-              "RelativeDocumentMoniker": "VasosInteligentes\\Data\\FakeContext.cs",
-              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Data\\FakeContext.cs",
-              "RelativeToolTip": "VasosInteligentes\\Data\\FakeContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T15:19:59.564Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Vasos\\Index.cshtml",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Vasos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Vasos\\Index.cshtml",
+              "RelativeToolTip": "VasosInteligentes\\Views\\Vasos\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T15:35:10.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Vasos\\Create.cshtml",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Vasos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Vasos\\Create.cshtml",
+              "RelativeToolTip": "VasosInteligentes\\Views\\Vasos\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T15:27:55.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Plantas\\Create.cshtml",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Plantas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Plantas\\Create.cshtml",
+              "RelativeToolTip": "VasosInteligentes\\Views\\Plantas\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T14:07:55.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VasosInteligentes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T13:05:06.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlantasController.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Controllers\\PlantasController.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\PlantasController.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Controllers\\PlantasController.cs",
+              "RelativeToolTip": "VasosInteligentes\\Controllers\\PlantasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:55:10.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MongoSettings.cs",
               "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Data\\MongoSettings.cs",
               "RelativeDocumentMoniker": "VasosInteligentes\\Data\\MongoSettings.cs",
@@ -94,33 +160,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ContextMongoDb.cs",
               "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Data\\ContextMongoDb.cs",
               "RelativeDocumentMoniker": "VasosInteligentes\\Data\\ContextMongoDb.cs",
               "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Data\\ContextMongoDb.cs",
               "RelativeToolTip": "VasosInteligentes\\Data\\ContextMongoDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T14:54:40.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Vaso.cs",
               "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Models\\Vaso.cs",
               "RelativeDocumentMoniker": "VasosInteligentes\\Models\\Vaso.cs",
               "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Models\\Vaso.cs",
               "RelativeToolTip": "VasosInteligentes\\Models\\Vaso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T14:00:59.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Planta.cs",
               "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Models\\Planta.cs",
               "RelativeDocumentMoniker": "VasosInteligentes\\Models\\Planta.cs",
@@ -132,8 +198,95 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FakeContext.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Data\\FakeContext.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Data\\FakeContext.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Data\\FakeContext.cs",
+              "RelativeToolTip": "VasosInteligentes\\Data\\FakeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:19:59.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VasosController.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Controllers\\VasosController.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\VasosController.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Controllers\\VasosController.cs",
+              "RelativeToolTip": "VasosInteligentes\\Controllers\\VasosController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:59:26.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "VasosInteligentes\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:00:51.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\appsettings.json",
+              "RelativeDocumentMoniker": "VasosInteligentes\\appsettings.json",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\appsettings.json",
+              "RelativeToolTip": "VasosInteligentes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T15:27:49.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VasosInteligentes\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T13:04:16.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Program.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Program.cs",
+              "RelativeToolTip": "VasosInteligentes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:27:32.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VasosInteligentes\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:00:04.633Z",
+              "EditorCaption": ""
             }
           ]
         }
