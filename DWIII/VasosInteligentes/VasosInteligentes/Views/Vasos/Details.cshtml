@@ -20,7 +20,14 @@
             @Html.DisplayNameFor(model => model.PlantaId)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.PlantaId)
+            @if(Model.PlantaRelacionada != null && Model.PlantaRelacionada.Any())
+            {
+                <span>@Model.PlantaRelacionada.FirstOrDefault()?.Nome</span>
+            }
+            else 
+            {
+                <span>Planta não encontrada</span>
+            }
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Localizacao)

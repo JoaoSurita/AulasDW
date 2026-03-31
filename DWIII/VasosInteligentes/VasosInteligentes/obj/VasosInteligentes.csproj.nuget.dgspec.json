@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\VasosInteligentes.csproj": {}
+    "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\VasosInteligentes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\VasosInteligentes.csproj": {
+    "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\VasosInteligentes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\VasosInteligentes.csproj",
+        "projectUniqueName": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\VasosInteligentes.csproj",
         "projectName": "VasosInteligentes",
-        "projectPath": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\VasosInteligentes.csproj",
-        "packagesPath": "C:\\Users\\0201392511020\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\obj\\",
+        "projectPath": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\VasosInteligentes.csproj",
+        "packagesPath": "C:\\Users\\0201392511010\\.nuget\\packages\\",
+        "outputPath": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\0201392511020\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\0201392511010\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -51,6 +51,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AspNetCore.Identity.MongoDbCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[9.0.0, )"

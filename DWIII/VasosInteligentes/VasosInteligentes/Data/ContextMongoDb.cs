@@ -1,5 +1,4 @@
-﻿using System.Security.Authentication;
-using Microsoft.Extensions.Options;
+﻿using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 using VasosInteligentes.Models;
 
@@ -17,16 +16,20 @@ namespace VasosInteligentes.Data
             {
                 clientSettings.SslSettings = new SslSettings
                 {
-                    EnabledSslProtocols = SslProtocols.Tls12
+                    EnabledSslProtocols = System.Security.Authentication.SslProtocols.Tls12
                 };
             }
+
             var client = new MongoClient(clientSettings);
             _database = client.GetDatabase(mongoSettings.Database);
         }
+
         public IMongoCollection<Vaso> Vaso
         {
             get { return _database.GetCollection<Vaso>("Vaso"); }
-        }public IMongoCollection<Planta> Planta
+        }
+
+        public IMongoCollection<Planta> Planta
         {
             get { return _database.GetCollection<Planta>("Planta"); }
         }

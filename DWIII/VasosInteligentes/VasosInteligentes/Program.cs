@@ -5,10 +5,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// Abre conexão com o BD
-builder.Services.Configure<MongoSettings>(builder.Configuration.GetSection("MongoConnection"));
 
-// Limita a Conexão
+builder.Services.Configure<MongoSettings>(
+    builder.Configuration.GetSection("MongoConnection")
+);
 builder.Services.AddSingleton<ContextMongoDb>();
 
 var app = builder.Build();
