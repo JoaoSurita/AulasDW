@@ -9,12 +9,15 @@ namespace VasosInteligentes.Models
         [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
         public string? Id { get; set; }
         public string? Nome { get; set; }
-        [Display(Name = "Umidade Miníma")]
-        
+
+        [Display(Name="Umidade Minima")]
+        [Required]
         public double UmidadeIdealMin { get; set; }
-        [Display(Name = "Umidade Máxima")]
+
+        [Display(Name="Umidade Máxima")]
         public double UmidadeIdealMax { get; set; }
-        [Display(Name = "Luminosidade Ideal")]
+
+        [Display(Name="Luminosidade Ideal")]
         public double LuminosidadeIdeal { get; set; }
     }
 }

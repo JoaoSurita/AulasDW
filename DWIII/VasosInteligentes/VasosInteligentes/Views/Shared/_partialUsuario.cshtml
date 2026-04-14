@@ -1,0 +1,11 @@
+﻿﻿@using Microsoft.AspNetCore.Authorization
+
+@if (User.Identity.IsAuthenticated)
+{
+    @if (User.IsInRole("Usuario"))
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Vasos" asp-action="MeusVasos">Vasos</a>
+        </li>
+    }
+}
