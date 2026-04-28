@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Microsoft.Build.Tasks;
 
 namespace VasosInteligentes.ViewModel
 {
@@ -14,14 +15,12 @@ namespace VasosInteligentes.ViewModel
 
         [Required]
         [DataType(DataType.Password)]
-        [MinLength(6, ErrorMessage = "A senha deve ter no mínimo 6 caracteres.")]
+        [MinLength(6, ErrorMessage = "A senha deve ter no mínimo 6 caracteres")]
 
         public string NewPassword { get; set; }
 
         [DataType(DataType.Password)]
-        [Compare("NewPassword", ErrorMessage = "A senha e confirmação da senha não conferem.")]
-
+        [Compare("NewPassword", ErrorMessage ="A senha e confirmação da senha não conhecidos")]
         public string ConfirmPassword { get; set; }
-
     }
 }

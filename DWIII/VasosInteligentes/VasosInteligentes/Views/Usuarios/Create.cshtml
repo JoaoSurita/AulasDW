@@ -1,0 +1,16 @@
+@model VasosInteligentes.Models.ApplicationUser
+
+<div class="container mt-4">
+    <h2>Cadastrar Usuário</h2>
+    <form asp-action="Create">
+        <div class="mb-3">
+            <label>E-mail</label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label>Senha</label>
+            <input name="senha" type="password" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-success">Salvar</button>
+    </form>
+</div>

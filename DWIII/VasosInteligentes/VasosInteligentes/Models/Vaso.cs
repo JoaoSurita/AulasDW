@@ -1,11 +1,10 @@
-﻿using System.ComponentModel.DataAnnotations;
-using MongoDB.Bson.Serialization.Attributes;
+﻿using MongoDB.Bson.Serialization.Attributes;
+using System.ComponentModel.DataAnnotations;
 
 namespace VasosInteligentes.Models
 {
     public class Vaso
     {
-
         [BsonId]
         [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
         public string? Id { get; set; }
@@ -15,11 +14,11 @@ namespace VasosInteligentes.Models
         public string? PlantaId { get; set; }
 
         [Display(Name = "Localização")]
-        public string? Localizacao { get; set; }
+        public double Localizacao { get; set; } //trocar para string e tem que ir no mongo apagar o vaso e dps cadastrar dnv
 
         public string? UsuarioId { get; set; }
 
-        public List<Planta> PlantaList { get; set; } = new List<Planta>();
-        // era pra ser PlantaRelacionada
+        public List<Planta> PlantaRelacionada { get; set; } = new List<Planta>();
     }
 }
+

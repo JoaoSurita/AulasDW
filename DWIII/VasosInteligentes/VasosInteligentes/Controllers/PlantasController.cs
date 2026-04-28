@@ -24,8 +24,7 @@ namespace VasosInteligentes.Controllers
         // GET: Plantas
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Planta.Find(_ => true)
-                .ToListAsync());
+            return View(await _context.Planta.Find(_=>true).ToListAsync());
         }
 
         // GET: Plantas/Details/5
@@ -36,9 +35,7 @@ namespace VasosInteligentes.Controllers
                 return NotFound();
             }
 
-            var planta = await _context.Planta.Find(m => m.Id == id)
-                .FirstOrDefaultAsync();
-
+            var planta = await _context.Planta.Find(m => m.Id == id).FirstOrDefaultAsync();
             if (planta == null)
             {
                 return NotFound();
@@ -58,7 +55,7 @@ namespace VasosInteligentes.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nome,UmidadeIdealMin,UmidadeIdealMax,LuminosidadeIdeal")] Planta planta)
+        public async Task<IActionResult> Create([Bind("Nome,UmidadeIdealMin,UmidadeIdealMax,LuminosidadeIdeal")] Planta planta)
         {
             if (ModelState.IsValid)
             {
@@ -77,7 +74,6 @@ namespace VasosInteligentes.Controllers
             }
 
             var planta = await _context.Planta.Find(m => m.Id == id).FirstOrDefaultAsync();
-
             if (planta == null)
             {
                 return NotFound();
@@ -141,13 +137,11 @@ namespace VasosInteligentes.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(string id)
         {
-            var result = await _context.Planta.DeleteOneAsync(m => m.Id == id);
-
+            var result = await _context.Planta.DeleteOneAsync(m=>m.Id == id);   
             if (result == null)
             {
                 return NotFound();
             }
-            
             return RedirectToAction(nameof(Index));
         }
 

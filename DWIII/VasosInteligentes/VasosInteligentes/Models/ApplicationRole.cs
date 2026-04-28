@@ -6,5 +6,6 @@ namespace VasosInteligentes.Models
     [CollectionName("Roles")]
     public class ApplicationRole:MongoDbIdentityRole
     {
+
     }
 }

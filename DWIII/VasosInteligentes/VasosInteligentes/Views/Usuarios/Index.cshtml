@@ -1,0 +1,25 @@
+@model IEnumerable<VasosInteligentes.Models.ApplicationUser>
+
+<div class="container mt-4">
+    <h2>Gerenciar Usuários - Vasos Inteligentes</h2>
+    <a asp-action="Create" class="btn btn-primary mb-3">Novo Usuário</a>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>E-mail</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model) {
+                <tr>
+                    <td>@user.Email</td>
+                    <td>
+                        <a asp-action="Delete" asp-route-id="@user.Id" class="btn btn-danger btn-sm" onclick="return confirm('Excluir?')">Remover</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

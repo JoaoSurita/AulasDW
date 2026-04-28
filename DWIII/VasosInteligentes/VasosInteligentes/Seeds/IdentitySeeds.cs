@@ -1,22 +1,24 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using System.Security.Cryptography.X509Certificates;
+using Microsoft.AspNetCore.Identity;
 using VasosInteligentes.Models;
 
 namespace VasosInteligentes.Seeds
 {
     public class IdentitySeeds
     {
-        public static async Task SeedRolesAndUser(IServiceProvider serviceProvider, string defaultPassword)
+        public static async Task SeedRolesAndUser(
+            IServiceProvider serviceProvider, string defaultPassword)
         {
-            // Criar as Roles(adm e usuario)
-            var RoleManager = serviceProvider.GetRequiredService<RoleManager<ApplicationRole>>();
-            string[] roleNames = { "Administrador", "Usuario" };
-            foreach (var roleName in roleNames)
+            // Criação das roles (Administrador e Usuario)
+            var roleMenager = serviceProvider.GetRequiredService<RoleManager<ApplicationRole>>();
+            string[] rolesNames = { "Administrador", "Usuario" };
+            foreach (var roleName in rolesNames)
             {
-                // Verificar se ja existe
-                if (await RoleManager.FindByNameAsync(roleName) == null)
+                // verificar se já foi criado
+                if(await roleMenager.FindByNameAsync(roleName) == null)
                 {
-                    // Se não encontrou, sera inserido
-                    var result = await RoleManager.CreateAsync(
+                    // se não encontrou, será inserido
+                    var result = await roleMenager.CreateAsync(
                         new ApplicationRole { Name = roleName }
                     );
                     if (result.Succeeded)
@@ -25,48 +27,50 @@ namespace VasosInteligentes.Seeds
                     }
                     else { return; }
                 }
-            } // Fim foreach
-            // Criar os Usuarios
-            // Criar o adm
-            var UserManager = serviceProvider.GetRequiredService<UserManager<ApplicationUser>>();
-            if (await UserManager.FindByEmailAsync("admin@gmail.com") == null)
+            } // Fim do foreach
+            // Criar usuarios 
+            //Criar Admin
+            var userManeger = serviceProvider.GetRequiredService<UserManager<ApplicationUser>>();
+            if (await userManeger.FindByEmailAsync("admin@admin.com") == null)
             {
-                // Se não encontrou, sera inserido
-                var admUser = new ApplicationUser
+                // se não encontrou, será inserido
+                var adminUser = new ApplicationUser
                 {
-                    UserName = "admin@gmail.com",
-                    Email = "admin@gmail.com",
+                    UserName = "admin@admin.com",
+                    Email = "admin@admin.com",
                     EmailConfirmed = true
                 };
-                var resultAdm = await UserManager.CreateAsync(admUser, defaultPassword);
-                if (resultAdm.Succeeded)
+                var ResultAdmin = await userManeger.CreateAsync(adminUser, defaultPassword);
+                    
+                if (ResultAdmin.Succeeded)
                 {
-                    Console.WriteLine($"SEED: Adm foi criado");
-                    // Atribuindo o usuario a sua roler. Se ele é adm ou usuario normal
-                    await UserManager.AddToRoleAsync(admUser, "Administrador");
+                    Console.WriteLine($"SEED: Administrador foi criado");
+                    //Atribuindo a uma role para o usuario 
+                    await userManeger.AddToRoleAsync(adminUser, "Administrador");
+                }
+                else { return; }
+
+            } // usuario comum 
+            if (await userManeger.FindByEmailAsync("teste@usuario.com") == null)
+            {
+                Console.WriteLine("Estou aqui");
+                // se não encontrou, será inserido
+                var user = new ApplicationUser
+                {
+                    UserName = "teste@usuario.com",
+                    Email = "teste@usuario.com",
+                    EmailConfirmed = true
+                };
+                var resultUser = await userManeger.CreateAsync(user, "Teste@123");
+
+                if (resultUser.Succeeded)
+                {
+                    Console.WriteLine($"SEED: Administrador foi criado");
+                    await userManeger.AddToRoleAsync(user, "Usuario");
                 }
                 else { return; }
             }
 
-            // Criar o usuario
-            if (await UserManager.FindByEmailAsync("user@gmail.com") == null)
-            {
-                // Se não encontrou, sera inserido
-                var user = new ApplicationUser
-                {
-                    UserName = "user@gmail.com",
-                    Email = "user@gmail.com",
-                    EmailConfirmed = true
-                };
-                var resultUser = await UserManager.CreateAsync(user, "Teste@123");
-                if (resultUser.Succeeded)
-                {
-                    Console.WriteLine($"SEED: Usuario foi criado");
-                    // Atribuindo o usuario a sua roler. Se ele é adm ou usuario normal
-                    await UserManager.AddToRoleAsync(user, "Usuario");
-                }
-                else { return; }
-            }
-        } // Fim método
+        }
     }
 }

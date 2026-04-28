@@ -10,61 +10,49 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+// Conexão com o mongo
 builder.Services.Configure<MongoSettings>(
     builder.Configuration.GetSection("MongoConnection")
 );
 builder.Services.AddSingleton<ContextMongoDb>();
 
+//configuração do identity 
+var mongoSettings = builder.Configuration.GetSection("MongoConnection").Get<MongoSettings>();
 
-// Configuração do Identity
-var mongoSettings = builder.Configuration
-    .GetSection("MongoConnection")
-    .Get<MongoSettings>();
 builder.Services.AddIdentity<ApplicationUser, ApplicationRole>
     (options =>
     {
-        // Itens que a senha deve ter. 
-        // Minimo 6 letras
         options.Password.RequiredLength = 6;
-        // Letras maiusculas
-        options.Password.RequireUppercase = false;
-        // Letras minusculas
-        options.Password.RequireLowercase = false;
-        // Letras caracter especial
         options.Password.RequireNonAlphanumeric = false;
-        // Numeros
         options.Password.RequireDigit = false;
+        options.Password.RequireUppercase = false;
+
     })
-        .AddMongoDbStores<ApplicationUser, ApplicationRole, string>(mongoSettings.ConnectionString, mongoSettings.Database)
-        .AddDefaultTokenProviders();
+    .AddMongoDbStores<ApplicationUser, ApplicationRole, string>(mongoSettings.ConnectionString, mongoSettings.Database)
+    .AddDefaultTokenProviders();
 
-
-//Importante para Scaffolding e as RazorPages para o Identity
+// Importando para Scaffolding e as RazorPages
 builder.Services.AddRazorPages();
 
-
-//configuracao envio de email
-builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
+// Configuração envio de email 
+builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettigs"));
 builder.Services.AddSingleton<EmailService>();
-
 
 var app = builder.Build();
 
-// Seeds
-using (var Scope = app.Services.CreateScope())
+// seeds 
+using(var Scope = app.Services.CreateScope())
 {
-    var service = Scope.ServiceProvider;
+    var services = Scope.ServiceProvider;
     try
     {
-        await IdentitySeeds.SeedRolesAndUser(service, "Adm@123");
+        await IdentitySeeds.SeedRolesAndUser(services, "Admin@123");
     }
     catch (Exception ex)
     {
-        Console.WriteLine($"Erro no seed: {ex.Message}");
+        Console.WriteLine($"Erro seed: {ex.Message}");
     }
 }
-
-
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -73,10 +61,8 @@ if (!app.Environment.IsDevelopment())
 }
 app.UseRouting();
 
-// Acrescentar o UseAuthentication antes do UseAuthorization
-// Ele garante que o usuario tem que se logar/autenticar antes de usar o sistema
-app.UseAuthorization();
-
+// Acrescentar app.UseAuthentication. Tem que ser antes do app.UseAuthorization
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapStaticAssets();
@@ -88,3 +74,6 @@ app.MapControllerRoute(
 
 
 app.Run();
+
+
+// comentario teste 

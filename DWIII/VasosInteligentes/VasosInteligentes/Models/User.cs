@@ -1,5 +1,4 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using Microsoft.Build.Tasks;
 
 namespace VasosInteligentes.Models
 {
@@ -7,14 +6,11 @@ namespace VasosInteligentes.Models
     {
         [Required]
         public string? Nome { get; set; }
-
         [Required]
         public string? Celular { get; set; }
-
         [Required]
-        [EmailAddress(ErrorMessage = "Email Inválido")]
+        [EmailAddress(ErrorMessage ="E-mail Inválido")]
         public string? Email { get; set; }
-
         [Required]
         public string? Password { get; set; }
     }
