@@ -9,24 +9,19 @@ namespace VasosInteligentes.Controllers
     {
         private readonly UserManager<ApplicationUser> _userManager;
 
-        // O sistema injeta o UserManager que você configurou no Program.cs
         public UsuariosController(UserManager<ApplicationUser> userManager)
         {
             _userManager = userManager;
         }
 
-        // Listar usuários: https://localhost:porta/Usuarios
         public async Task<IActionResult> Index()
         {
-            // O segredo está em transformar o IQueryable em uma lista comum antes de mandar para a View
             var usuarios = _userManager.Users.ToList();
             return View(usuarios);
         }
 
-        // Criar usuário (Tela)
         public IActionResult Create() => View();
 
-        // Criar usuário (Lógica)
         [HttpPost]
         public async Task<IActionResult> Create(ApplicationUser model, string senha)
         {
@@ -42,7 +37,6 @@ namespace VasosInteligentes.Controllers
             return View(model);
         }
 
-        // Excluir usuário
         public async Task<IActionResult> Delete(string id)
         {
             var usuario = await _userManager.FindByIdAsync(id);
