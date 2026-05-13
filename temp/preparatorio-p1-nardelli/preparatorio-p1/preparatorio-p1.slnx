@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="sistema-clinica-alarme/sistema-clinica-alarme.csproj" />
+  <Project Path="sistema-evento/sistema-evento.csproj" />
+</Solution>

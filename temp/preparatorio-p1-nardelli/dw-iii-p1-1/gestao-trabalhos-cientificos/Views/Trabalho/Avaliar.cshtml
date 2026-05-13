@@ -1,0 +1,37 @@
+﻿@model Trabalho
+
+<div class="container mt-4">
+    <div class="card border-info shadow-sm">
+        <div class="card-header bg-info text-dark fw-bold">
+            Avaliação de Trabalho: @Model.Titulo
+        </div>
+        <div class="card-body bg-light">
+            <div class="alert alert-secondary">
+                <h6><strong>Resumo do Trabalho:</strong></h6>
+                <p class="mb-0">@Model.Resumo</p>
+            </div>
+
+            <form asp-action="Avaliar" method="post" class="mt-4">
+                <input type="hidden" name="id" value="@Model.Id" />
+
+                <div class="row align-items-center">
+                    <div class="col-md-3">
+                        <label class="form-label fw-bold">Nota (1 a 5):</label>
+                        <input type="number" name="nota" class="form-control form-control-lg border-primary"
+                               min="1" max="5" required />
+                    </div>
+                    <div class="col-md-9">
+                        <label class="form-label fw-bold">Comentário:</label>
+                        <textarea name="comentario" class="form-control" rows="2"
+                                  placeholder="Escreva sua observação técnica..."></textarea>
+                    </div>
+                </div>
+
+                <div class="mt-4 text-end">
+                    <a asp-action="Index" class="btn btn-secondary me-2">Cancelar</a>
+                    <button type="submit" class="btn btn-success px-5">Salvar Avaliação</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

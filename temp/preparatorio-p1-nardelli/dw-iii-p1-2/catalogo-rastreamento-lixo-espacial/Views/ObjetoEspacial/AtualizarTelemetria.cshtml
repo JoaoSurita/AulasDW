@@ -1,0 +1,29 @@
+﻿@model ObjetoEspacial
+<div class="container mt-4 col-md-6">
+    <div class="alert alert-secondary">
+        <h5><strong>Objeto:</strong> @Model.Nome</h5>
+        <p class="mb-0"><strong>Tipo:</strong> @Model.TipoObjeto</p>
+    </div>
+
+    <div class="card shadow border-warning">
+        <div class="card-header bg-warning">Nova Leitura de Telemetria</div>
+        <div class="card-body">
+            <form asp-action="AtualizarTelemetria">
+                <input type="hidden" name="id" value="@Model.Id" />
+                <div class="mb-3">
+                    <label class="form-label">Altitude (km)</label>
+                    <input name="altitude" type="number" step="0.01" class="form-control" required />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Velocidade (km/s)</label>
+                    <input name="velocidade" type="number" step="0.01" class="form-control" required />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Data da Leitura</label>
+                    <input name="dataLeitura" type="datetime-local" class="form-control" value="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm")" required />
+                </div>
+                <button type="submit" class="btn btn-warning w-100 fw-bold">Atualizar Historico</button>
+            </form>
+        </div>
+    </div>
+</div>

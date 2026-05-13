@@ -1,0 +1,23 @@
+﻿@model Campeonatos
+
+<div class="container mt-4">
+    <div class="card border-info shadow-sm">
+        <div class="card-header bg-info text-dark fw-bold">
+            Alteração de arena : @Model.NomeDoEvento
+        </div>
+        <div class="card-body bg-light">
+            <div class="alert alert-secondary">
+                <h6><strong>Arena a ser alterada:</strong></h6>
+                <p class="mb-0">@Model.Arena</p>
+            </div>
+
+            <form asp-action="Alterar" method="post" class="mt-4">
+                <input type="hidden" name="id" value="@Model.Id" />
+                <div class="mt-4 text-end">
+                    <a asp-action="Index" class="btn btn-secondary me-2">Cancelar</a>
+                    <button type="submit" class="btn btn-success px-5">Salvar Avaliação</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

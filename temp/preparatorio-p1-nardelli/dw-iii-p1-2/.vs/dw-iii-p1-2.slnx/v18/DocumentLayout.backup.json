@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\models\\objetoespacialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|solutionrelative:catalogo-rastreamento-lixo-espacial\\models\\objetoespacialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\models\\objetoespacial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|solutionrelative:catalogo-rastreamento-lixo-espacial\\models\\objetoespacial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|solutionrelative:catalogo-rastreamento-lixo-espacial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|solutionrelative:catalogo-rastreamento-lixo-espacial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\views\\objetoespacial\\atualizartelemetria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|solutionrelative:catalogo-rastreamento-lixo-espacial\\views\\objetoespacial\\atualizartelemetria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\views\\objetoespacial\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|solutionrelative:catalogo-rastreamento-lixo-espacial\\views\\objetoespacial\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\views\\objetoespacial\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|solutionrelative:catalogo-rastreamento-lixo-espacial\\views\\objetoespacial\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\controllers\\objetoespacialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|solutionrelative:catalogo-rastreamento-lixo-espacial\\controllers\\objetoespacialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\models\\historicoorbital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|solutionrelative:catalogo-rastreamento-lixo-espacial\\models\\historicoorbital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|solutionrelative:catalogo-rastreamento-lixo-espacial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04D83EDC-6F6E-495B-975E-E2DE19B31304}|catalogo-rastreamento-lixo-espacial\\catalogo-rastreamento-lixo-espacial.csproj|solutionrelative:catalogo-rastreamento-lixo-espacial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "catalogo-rastreamento-lixo-espacial\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "catalogo-rastreamento-lixo-espacial\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T10:12:56.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "catalogo-rastreamento-lixo-espacial\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "catalogo-rastreamento-lixo-espacial\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T10:12:28.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjetoEspacial.cs",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Models\\ObjetoEspacial.cs",
+              "RelativeDocumentMoniker": "catalogo-rastreamento-lixo-espacial\\Models\\ObjetoEspacial.cs",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Models\\ObjetoEspacial.cs*",
+              "RelativeToolTip": "catalogo-rastreamento-lixo-espacial\\Models\\ObjetoEspacial.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:06:37.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjetoEspacialViewModel.cs",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Models\\ObjetoEspacialViewModel.cs",
+              "RelativeDocumentMoniker": "catalogo-rastreamento-lixo-espacial\\Models\\ObjetoEspacialViewModel.cs",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Models\\ObjetoEspacialViewModel.cs",
+              "RelativeToolTip": "catalogo-rastreamento-lixo-espacial\\Models\\ObjetoEspacialViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:07:51.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AtualizarTelemetria.cshtml",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\AtualizarTelemetria.cshtml",
+              "RelativeDocumentMoniker": "catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\AtualizarTelemetria.cshtml",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\AtualizarTelemetria.cshtml",
+              "RelativeToolTip": "catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\AtualizarTelemetria.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T10:11:31.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\Create.cshtml",
+              "RelativeDocumentMoniker": "catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\Create.cshtml",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\Create.cshtml",
+              "RelativeToolTip": "catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T10:11:02.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\Index.cshtml",
+              "RelativeDocumentMoniker": "catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\Index.cshtml",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\Index.cshtml",
+              "RelativeToolTip": "catalogo-rastreamento-lixo-espacial\\Views\\ObjetoEspacial\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T10:10:26.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObjetoEspacialController.cs",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Controllers\\ObjetoEspacialController.cs",
+              "RelativeDocumentMoniker": "catalogo-rastreamento-lixo-espacial\\Controllers\\ObjetoEspacialController.cs",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Controllers\\ObjetoEspacialController.cs",
+              "RelativeToolTip": "catalogo-rastreamento-lixo-espacial\\Controllers\\ObjetoEspacialController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:08:49.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistoricoOrbital.cs",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Models\\HistoricoOrbital.cs",
+              "RelativeDocumentMoniker": "catalogo-rastreamento-lixo-espacial\\Models\\HistoricoOrbital.cs",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Models\\HistoricoOrbital.cs",
+              "RelativeToolTip": "catalogo-rastreamento-lixo-espacial\\Models\\HistoricoOrbital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:06:03.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Program.cs",
+              "RelativeDocumentMoniker": "catalogo-rastreamento-lixo-espacial\\Program.cs",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\Program.cs",
+              "RelativeToolTip": "catalogo-rastreamento-lixo-espacial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:05:36.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\appsettings.json",
+              "RelativeDocumentMoniker": "catalogo-rastreamento-lixo-espacial\\appsettings.json",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-2\\catalogo-rastreamento-lixo-espacial\\appsettings.json",
+              "RelativeToolTip": "catalogo-rastreamento-lixo-espacial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T10:05:08.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

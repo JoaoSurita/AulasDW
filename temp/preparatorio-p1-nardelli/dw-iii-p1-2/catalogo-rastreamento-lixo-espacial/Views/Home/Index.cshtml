@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center py-5 mb-4" style="background: #f8f9fa; border-radius: 15px;">
+    <h1 class="display-4 fw-bold text-primary">Portal de Monitoramento</h1>
+    <p class="lead">Gestão de Satélites e Rastreamento de Lixo Espacial</p>
+    <hr class="my-4" style="width: 20%; margin: auto;">
+    <a asp-controller="ObjetoEspacial" asp-action="Index" class="btn btn-primary btn-lg px-5 shadow-sm">
+        Acessar Catálogo
+    </a>
+</div>
+
+<div class="container">
+    <div class="row g-4 text-center">
+        <div class="col-md-6">
+            <div class="card h-100 shadow-sm border-0" style="border-radius: 15px;">
+                <div class="card-body">
+                    <div class="display-5 mb-3">🛰️</div>
+                    <h5 class="card-title fw-bold">Objetos Ativos</h5>
+                    <p class="card-text text-muted">Cadastre novos dispositivos e monitore a posição em tempo real.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card h-100 shadow-sm border-0" style="border-radius: 15px;">
+                <div class="card-body">
+                    <div class="display-5 mb-3">☄️</div>
+                    <h5 class="card-title fw-bold">Telemetria</h5>
+                    <p class="card-text text-muted">Registre e analise o histórico de altitude e velocidade orbital.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

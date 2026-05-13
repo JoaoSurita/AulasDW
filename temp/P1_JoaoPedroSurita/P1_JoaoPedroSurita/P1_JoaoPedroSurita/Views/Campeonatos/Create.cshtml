@@ -1,0 +1,33 @@
+﻿@model Campeonatos
+
+<div class="container mt-4">
+	<div class="row justify-content-center">
+		<div class="col-md-8">
+			<div class="card border-primary shadow">
+				<div class="card-header bg-primary text-white">
+					<h4 class="mb-0">Criação de Campeonato</h4>
+				</div>
+				<div class="card-body">
+					<form asp-action="Create">
+						<div class="mb-3">
+							<label asp-for="NomeDoEvento" class="form-label">Nome do Evento</label>
+							<input asp-for="NomeDoEvento" class="form-control" required />
+						</div>
+						<div class="mb-3">
+							<label asp-for="Arena" class="form-label">Arena</label>
+							<input asp-for="Arena" class="form-control" required />
+						</div>
+						<div class="mb-3">
+							<label asp-for="LimiteParticipantes" class="form-label">Limite de Participantes</label>
+							<textarea asp-for="LimiteParticipantes" class="form-control" rows="3" required></textarea>
+						</div>
+						<div class="mt-4 d-grid gap-2">
+							<button type="submit" class="btn btn-primary btn-lg">Finalizar Cadastro</button>
+							<a asp-action="Index" class="btn btn-link text-secondary">Voltar para a lista</a>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

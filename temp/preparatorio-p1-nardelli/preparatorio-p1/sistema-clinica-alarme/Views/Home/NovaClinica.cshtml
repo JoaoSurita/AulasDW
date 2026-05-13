@@ -1,0 +1,32 @@
+﻿@model Clinica
+
+@{
+    ViewData["Title"] = "Cadastrar Nova Clínica"; // Define o título da aba do navegador
+}
+
+<h1>Cadastrar Nova Clínica</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        @* O formulário enviará os dados para a Action 'NovaClinica' do HomeController *@
+        <form asp-action="NovaClinica" method="post">
+            
+            <div class="form-group mb-3">
+                @* Rótulo para o campo Nome *@
+                <label asp-for="Nome" class="control-label">Nome da Clínica</label>
+                @* Campo de entrada de texto vinculado à propriedade Nome do Model *@
+                <input asp-for="Nome" class="form-control" placeholder="Digite o nome..." required />
+            </div>
+
+            @* O campo 'Alarme' não precisa estar aqui, pois definimos como 'false' no Controller *@
+
+            <div class="form-group">
+                @* Botão para submeter o formulário *@
+                <button type="submit" class="btn btn-success">Salvar</button>
+                @* Link para voltar à listagem principal *@
+                <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+            </div>
+
+        </form>
+    </div>
+</div>

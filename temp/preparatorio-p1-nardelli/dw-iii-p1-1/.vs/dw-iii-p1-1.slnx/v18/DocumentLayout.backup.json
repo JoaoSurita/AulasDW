@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\views\\trabalho\\avaliar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|solutionrelative:gestao-trabalhos-cientificos\\views\\trabalho\\avaliar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\views\\trabalho\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|solutionrelative:gestao-trabalhos-cientificos\\views\\trabalho\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\views\\trabalho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|solutionrelative:gestao-trabalhos-cientificos\\views\\trabalho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\controllers\\trabalhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|solutionrelative:gestao-trabalhos-cientificos\\controllers\\trabalhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|solutionrelative:gestao-trabalhos-cientificos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|solutionrelative:gestao-trabalhos-cientificos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\models\\trabalhoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|solutionrelative:gestao-trabalhos-cientificos\\models\\trabalhoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\models\\trabalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|solutionrelative:gestao-trabalhos-cientificos\\models\\trabalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|solutionrelative:gestao-trabalhos-cientificos\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|c:\\fatec dsm\\3_semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0B7FCD-FDC0-354F-5CE7-539C1F73F18F}|gestao-trabalhos-cientificos\\gestao-trabalhos-cientificos.csproj|solutionrelative:gestao-trabalhos-cientificos\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Avaliar.cshtml",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Views\\Trabalho\\Avaliar.cshtml",
+              "RelativeDocumentMoniker": "gestao-trabalhos-cientificos\\Views\\Trabalho\\Avaliar.cshtml",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Views\\Trabalho\\Avaliar.cshtml",
+              "RelativeToolTip": "gestao-trabalhos-cientificos\\Views\\Trabalho\\Avaliar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T09:54:36.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Views\\Trabalho\\Create.cshtml",
+              "RelativeDocumentMoniker": "gestao-trabalhos-cientificos\\Views\\Trabalho\\Create.cshtml",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Views\\Trabalho\\Create.cshtml*",
+              "RelativeToolTip": "gestao-trabalhos-cientificos\\Views\\Trabalho\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T09:54:21.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Views\\Trabalho\\Index.cshtml",
+              "RelativeDocumentMoniker": "gestao-trabalhos-cientificos\\Views\\Trabalho\\Index.cshtml",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Views\\Trabalho\\Index.cshtml*",
+              "RelativeToolTip": "gestao-trabalhos-cientificos\\Views\\Trabalho\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T09:54:00.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrabalhoController.cs",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Controllers\\TrabalhoController.cs",
+              "RelativeDocumentMoniker": "gestao-trabalhos-cientificos\\Controllers\\TrabalhoController.cs",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Controllers\\TrabalhoController.cs*",
+              "RelativeToolTip": "gestao-trabalhos-cientificos\\Controllers\\TrabalhoController.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:52:18.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\appsettings.json",
+              "RelativeDocumentMoniker": "gestao-trabalhos-cientificos\\appsettings.json",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\appsettings.json",
+              "RelativeToolTip": "gestao-trabalhos-cientificos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T09:51:01.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrabalhoViewModel.cs",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Models\\TrabalhoViewModel.cs",
+              "RelativeDocumentMoniker": "gestao-trabalhos-cientificos\\Models\\TrabalhoViewModel.cs",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Models\\TrabalhoViewModel.cs",
+              "RelativeToolTip": "gestao-trabalhos-cientificos\\Models\\TrabalhoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:46:33.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trabalho.cs",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Models\\Trabalho.cs",
+              "RelativeDocumentMoniker": "gestao-trabalhos-cientificos\\Models\\Trabalho.cs",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Models\\Trabalho.cs",
+              "RelativeToolTip": "gestao-trabalhos-cientificos\\Models\\Trabalho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:45:00.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "gestao-trabalhos-cientificos\\Models\\Autor.cs",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Models\\Autor.cs*",
+              "RelativeToolTip": "gestao-trabalhos-cientificos\\Models\\Autor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:42:52.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Program.cs",
+              "RelativeDocumentMoniker": "gestao-trabalhos-cientificos\\Program.cs",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Program.cs*",
+              "RelativeToolTip": "gestao-trabalhos-cientificos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:41:34.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Avaliacao.cs",
+              "DocumentMoniker": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Models\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "gestao-trabalhos-cientificos\\Models\\Avaliacao.cs",
+              "ToolTip": "C:\\Fatec DSM\\3_Semestre\\desenvolvimento-web-iii\\preparatorio-p1-nardelli\\dw-iii-p1-1\\gestao-trabalhos-cientificos\\Models\\Avaliacao.cs*",
+              "RelativeToolTip": "gestao-trabalhos-cientificos\\Models\\Avaliacao.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T09:43:46.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

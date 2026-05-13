@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\views\\campeonatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\views\\campeonatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\views\\robos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\views\\robos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\views\\campeonatos\\alterar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\views\\campeonatos\\alterar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\views\\campeonatos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\views\\campeonatos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\models\\robos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\models\\robos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\models\\campeonatosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\models\\campeonatosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\models\\campeonatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\models\\campeonatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\data\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\data\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\data\\contextmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\data\\contextmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\controllers\\campeonatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\controllers\\campeonatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\controllers\\roboscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\controllers\\roboscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\p1_joaopedrosurita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|c:\\users\\0201392511020\\desktop\\p1_joaopedrosurita\\p1_joaopedrosurita\\p1_joaopedrosurita\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{658FEE49-6559-426F-AD3E-4061C13FE8B5}|P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj|solutionrelative:p1_joaopedrosurita\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\Robos\\Index.cshtml",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Views\\Robos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\Robos\\Index.cshtml",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Views\\Robos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T14:50:05.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:48:57.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alterar.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\Campeonatos\\Alterar.cshtml",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Views\\Campeonatos\\Alterar.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\Campeonatos\\Alterar.cshtml",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Views\\Campeonatos\\Alterar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T14:36:53.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\Campeonatos\\Create.cshtml",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Views\\Campeonatos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\Campeonatos\\Create.cshtml",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Views\\Campeonatos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T14:32:42.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContextMongoDb.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Data\\ContextMongoDb.cs",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Data\\ContextMongoDb.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Data\\ContextMongoDb.cs",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Data\\ContextMongoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:20:12.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CampeonatosController.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Controllers\\CampeonatosController.cs",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Controllers\\CampeonatosController.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Controllers\\CampeonatosController.cs",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Controllers\\CampeonatosController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswD4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:46:27.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Campeonatos.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Models\\Campeonatos.cs",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Models\\Campeonatos.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Models\\Campeonatos.cs",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Models\\Campeonatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:01:26.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\Campeonatos\\Index.cshtml",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Views\\Campeonatos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\Campeonatos\\Index.cshtml",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Views\\Campeonatos\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T14:24:22.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CampeonatosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Models\\CampeonatosViewModel.cs",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Models\\CampeonatosViewModel.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Models\\CampeonatosViewModel.cs",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Models\\CampeonatosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:39:50.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MongoSettings.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Data\\MongoSettings.cs",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Data\\MongoSettings.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Data\\MongoSettings.cs",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Data\\MongoSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:19:05.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T13:28:02.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RobosController.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Controllers\\RobosController.cs",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Controllers\\RobosController.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Controllers\\RobosController.cs",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Controllers\\RobosController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:40:28.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Robos.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Models\\Robos.cs",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Models\\Robos.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Models\\Robos.cs",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Models\\Robos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:55:54.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:12:43.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T13:45:58.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T13:45:53.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "P1_JoaoPedroSurita",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\P1_JoaoPedroSurita.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T13:18:42.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\appsettings.json",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\appsettings.json",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\appsettings.json",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T13:09:16.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Program.cs",
+              "RelativeDocumentMoniker": "P1_JoaoPedroSurita\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\P1_JoaoPedroSurita\\Program.cs",
+              "RelativeToolTip": "P1_JoaoPedroSurita\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T14:01:31.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

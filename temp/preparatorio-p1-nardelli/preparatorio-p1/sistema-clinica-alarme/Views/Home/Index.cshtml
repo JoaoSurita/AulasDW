@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<Clinica>
+
+<h2>Clínicas</h2>
+
+<a asp-action="NovaClinica" class="btn btn-primary">Nova Clínica</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Alarme</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nome</td>
+                <td>@(item.Alarme ? "Ligado" : "Desligado")</td>
+                <td>
+                    <a asp-action="AlternarAlarme" asp-route-id="@item.Id">
+                        @(item.Alarme ? "Desligar Alarme" : "Ligar Alarme")
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
