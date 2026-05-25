@@ -38,6 +38,10 @@ builder.Services.AddRazorPages();
 builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettigs"));
 builder.Services.AddSingleton<EmailService>();
 
+
+//Simulador
+builder.Services.AddHostedService<SensorBackgroundService>();
+
 var app = builder.Build();
 
 // seeds 

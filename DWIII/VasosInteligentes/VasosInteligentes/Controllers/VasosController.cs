@@ -56,7 +56,7 @@ namespace VasosInteligentes.Controllers
 
 
 
-        [Authorize(Roles = "Usuarios")]
+        [Authorize(Roles = "Usuario")]
         // GET: Vasos
         public async Task<IActionResult> MeusVasos()
         {
@@ -66,32 +66,21 @@ namespace VasosInteligentes.Controllers
             {
                 return RedirectToAction("Login", "Accounts");
             }
-            var usuarioId = user.Id; 
-            var pipeline = new BsonDocument[]
+            var vasos = await _context.Vaso.Find(v => v.UsuarioId == user.Id).ToListAsync();
+            foreach(var vaso in vasos)
             {
-                new BsonDocument("$match", new BsonDocument ("UserId", usuarioId)),
-
-                //criar campos temporários será usado na conversão de object para string
-                new BsonDocument("$addFields", new BsonDocument
+                var ultimaLeitura = await _context.LeituraSensor.Find(l => l.VasoId == vaso.Id).SortByDescending(l => l.DataLeitura).FirstOrDefaultAsync();
+                vaso.UltimaLeitura = ultimaLeitura;
+                if (!string.IsNullOrEmpty(vaso.PlantaId))
                 {
-                    {"PlantaIdObj", new BsonDocument("$toObjectId", "$PlantaId") }
-                }),
-                // Faz o join usando o campo convertido 
-                new BsonDocument("$lookup", new BsonDocument
-                {
-                    {"from", "Planta" },
-                    {"localField", "PlantaIdObj" },
-                    {"foreignField", "_id" },
-                    {"as", "PlantaRelacionada" }
-                }),
-                // Remover campos extras para não quebrar o C#
-                new BsonDocument("$project", new BsonDocument
-                {
-                    {"PlantaIdObj", 0 }
-                })
-            };
-            var result = await _context.Vaso.Aggregate<Vaso>(pipeline).ToListAsync();
-            return View(result);
+                    var planta = await _context.Planta.Find(p => p.Id == vaso.PlantaId).FirstOrDefaultAsync();
+                    if(planta != null)
+                    {
+                        vaso.PlantaRelacionada = new List<Planta> { planta }; 
+                    }
+                }
+            }
+            return View(vasos);
         } // método
 
 

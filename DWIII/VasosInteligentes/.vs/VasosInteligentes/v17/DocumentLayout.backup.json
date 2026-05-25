@@ -1,22 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\",
+  "WorkspaceRootPath": "C:\\DW-III\\projetos\\VasosInteligentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\dw-iii\\projetos\\vasosinteligentes\\vasosinteligentes\\controllers\\vasoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\controllers\\vasoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\dw-iii\\projetos\\vasosinteligentes\\vasosinteligentes\\services\\sensorbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\services\\sensorbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\dw-iii\\projetos\\vasosinteligentes\\vasosinteligentes\\views\\plantas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\plantas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\dw-iii\\projetos\\vasosinteligentes\\vasosinteligentes\\views\\vasos\\meusvasos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\vasos\\meusvasos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\dw-iii\\projetos\\vasosinteligentes\\vasosinteligentes\\views\\usuarios\\create.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\usuarios\\create.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\dw-iii\\projetos\\vasosinteligentes\\vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\dw-iii\\projetos\\vasosinteligentes\\vasosinteligentes\\seeds\\identityseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\seeds\\identityseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\users\\0201392511020\\desktop\\aulasdw\\dwiii\\vasosinteligentes\\vasosinteligentes\\views\\usuarios\\create.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\usuarios\\create.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\dw-iii\\projetos\\vasosinteligentes\\vasosinteligentes\\data\\contextmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\data\\contextmongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\dw-iii\\projetos\\vasosinteligentes\\vasosinteligentes\\models\\leiturasensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\models\\leiturasensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\dw-iii\\projetos\\vasosinteligentes\\vasosinteligentes\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|c:\\dw-iii\\projetos\\vasosinteligentes\\vasosinteligentes\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B2BE41-160C-4585-B241-AD3981F8A304}|VasosInteligentes\\VasosInteligentes.csproj|solutionrelative:vasosinteligentes\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,46 +54,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Program.cs",
+              "DocumentMoniker": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Program.cs",
               "RelativeDocumentMoniker": "VasosInteligentes\\Program.cs",
-              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Program.cs",
+              "ToolTip": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Program.cs",
               "RelativeToolTip": "VasosInteligentes\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T15:27:28.322Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VasosController.cs",
+              "DocumentMoniker": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Controllers\\VasosController.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\VasosController.cs",
+              "ToolTip": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Controllers\\VasosController.cs*",
+              "RelativeToolTip": "VasosInteligentes\\Controllers\\VasosController.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T15:11:26.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "VasosInteligentes\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T01:46:19.349Z",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Views\\Plantas\\Index.cshtml",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Plantas\\Index.cshtml",
+              "ToolTip": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Views\\Plantas\\Index.cshtml",
+              "RelativeToolTip": "VasosInteligentes\\Views\\Plantas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T15:10:09.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MeusVasos.cshtml",
+              "DocumentMoniker": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Views\\Vasos\\MeusVasos.cshtml",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Vasos\\MeusVasos.cshtml",
+              "ToolTip": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Views\\Vasos\\MeusVasos.cshtml",
+              "RelativeToolTip": "VasosInteligentes\\Views\\Vasos\\MeusVasos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T15:09:52.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentitySeeds.cs",
+              "DocumentMoniker": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Seeds\\IdentitySeeds.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Seeds\\IdentitySeeds.cs",
+              "ToolTip": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Seeds\\IdentitySeeds.cs",
+              "RelativeToolTip": "VasosInteligentes\\Seeds\\IdentitySeeds.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T14:53:26.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContextMongoDb.cs",
+              "DocumentMoniker": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Data\\ContextMongoDb.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Data\\ContextMongoDb.cs",
+              "ToolTip": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Data\\ContextMongoDb.cs",
+              "RelativeToolTip": "VasosInteligentes\\Data\\ContextMongoDb.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:52:32.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SensorBackgroundService.cs",
+              "DocumentMoniker": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Services\\SensorBackgroundService.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Services\\SensorBackgroundService.cs",
+              "ToolTip": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Services\\SensorBackgroundService.cs",
+              "RelativeToolTip": "VasosInteligentes\\Services\\SensorBackgroundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:46:33.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeituraSensor.cs",
+              "DocumentMoniker": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Models\\LeituraSensor.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Models\\LeituraSensor.cs",
+              "ToolTip": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Models\\LeituraSensor.cs",
+              "RelativeToolTip": "VasosInteligentes\\Models\\LeituraSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:45:04.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "VasosInteligentes\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "VasosInteligentes\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T01:46:19.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Usuarios\\Create.cshtml",
+              "DocumentMoniker": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Views\\Usuarios\\Create.cshtml",
               "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Usuarios\\Create.cshtml",
-              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Views\\Usuarios\\Create.cshtml",
               "RelativeToolTip": "VasosInteligentes\\Views\\Usuarios\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -74,16 +188,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Usuarios\\Index.cshtml",
+              "DocumentMoniker": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Views\\Usuarios\\Index.cshtml",
               "RelativeDocumentMoniker": "VasosInteligentes\\Views\\Usuarios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasDW\\DWIII\\VasosInteligentes\\VasosInteligentes\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\DW-III\\projetos\\VasosInteligentes\\VasosInteligentes\\Views\\Usuarios\\Index.cshtml",
               "RelativeToolTip": "VasosInteligentes\\Views\\Usuarios\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-18T01:39:20.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-18T01:39:20.936Z"
             }
           ]
         }
