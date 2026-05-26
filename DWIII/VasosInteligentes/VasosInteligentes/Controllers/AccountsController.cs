@@ -1,8 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Web;
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel.DataAnnotations;
+using System.Web;
 using VasosInteligentes.Models;
 using VasosInteligentes.Services;
 using VasosInteligentes.ViewModel;
@@ -11,53 +11,52 @@ namespace VasosInteligentes.Controllers
 {
     public class AccountsController : Controller
     {
-
         private UserManager<ApplicationUser> _userManager;
         private SignInManager<ApplicationUser> _signInManager;
         private EmailService _emailService;
-        public AccountsController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> SignInManager, EmailService emailService)
-        { 
+        public AccountsController(
+            UserManager<ApplicationUser> userManager,
+            SignInManager<ApplicationUser> signInManager,
+            EmailService emailService)
+        {
             _userManager = userManager;
-            _signInManager = SignInManager;
+            _signInManager = signInManager;
             _emailService = emailService;
         }
-
-
-        // GET
+        //GET
         public IActionResult Login()
         {
             return View();
         }
         [HttpPost]
-        public async Task <IActionResult> Login(
+        public async Task<IActionResult> Login(
             [Required][EmailAddress] string email,
             [Required] string password)
         {
-            Console.WriteLine($"email:{email} - senha: {password}");
             if (ModelState.IsValid)
             {
                 ApplicationUser appuser = await _userManager.FindByEmailAsync(email);
-                if(appuser != null)
+                if (appuser != null)
                 {
                     Microsoft.AspNetCore.Identity.SignInResult result =
                         await _signInManager.PasswordSignInAsync(appuser, password, false, false);
                     if (result.Succeeded)
                     {
-                        return RedirectToAction ("Index", "Home");
+                        return RedirectToAction("Index", "Home");
                     }
                     ModelState.AddModelError(nameof(email), "Verifique as credenciais");
+
                 }
             }
             return View();
-        } // login
+        }//login
         [Authorize]
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
         }
-
-        //get 
+        //get
         public IActionResult ForgotPassword()
         {
             return View();
@@ -70,21 +69,27 @@ namespace VasosInteligentes.Controllers
                 ModelState.AddModelError("", "Informe o e-mail");
                 return View();
             }
+            Console.WriteLine($"e-mail: {email}");
             ApplicationUser user = await _userManager.FindByEmailAsync(email);
-            if(user == null)
+
+            if (user == null)
             {
+                Console.WriteLine("Estou aqui");
                 return RedirectToAction("ForgotPasswordConfirm");
             }
-            //preparar o link para o envio do e-mail 
+            //preparar o link para o envio do e-mail
             var token = await _userManager.GeneratePasswordResetTokenAsync(user);
-            var encodeToken = HttpUtility.UrlEncode(token);
-            var callbackUrl = Url.Action("ResetPassword", "Accounts", new {userId=user.Id, token = encodeToken}, Request.Scheme);
-            // preparar dados do email
-            var assunto = "Redefinição de senha";
-            var corpo = $"Clique no link para redefinir sua senha: <a href = '{callbackUrl}'>Redefinir senha</a>";
-            // Enviar email 
+            var encodedToken = HttpUtility.UrlEncode(token);
+            var callbackUrl = Url.Action("ResetPassword", "Accounts",
+                new { userId = user.Id, token = encodedToken }, Request.Scheme);
+            //preparar os dados do email
+            var assunto = "Redefinição de Senha";
+            var corpo = $"Clique no Link para redefinir sua senha:" +
+                $"<a href='{callbackUrl}'>Redefinir Senha</a>";
+            //enviar o email
             await _emailService.SendEmailAsync(email, assunto, corpo);
             return RedirectToAction("ForgotPasswordConfirm");
+
         }
         public IActionResult ForgotPasswordConfirm()
         {
@@ -95,30 +100,30 @@ namespace VasosInteligentes.Controllers
             if(token == null || token == "")
             {
                 ModelState.AddModelError("", "Token Invalido");
+
             }
             var model = new ResetPasswordViewModel
             {
                 Token = token,
                 UserId = userId
-            };
 
-            return View();
+            };
+            return View(model);
         }
 
         public IActionResult ResetPasswordConfirm()
         {
             return View();
         }
-
         [HttpPost]
         public async Task<IActionResult> ResetPassword(ResetPasswordViewModel model)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 return View(model);
             }
             var user = await _userManager.FindByIdAsync(model.UserId);
-            if (user == null)
+            if(user == null)
             {
                 return RedirectToAction("ResetPasswordConfirm");
             }
@@ -134,5 +139,5 @@ namespace VasosInteligentes.Controllers
             }
             return View(model);
         }
-    } // classe
-} // namespace 
+    }//classe
+}//namespace

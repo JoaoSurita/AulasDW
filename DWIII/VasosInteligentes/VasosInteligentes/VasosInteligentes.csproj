@@ -7,13 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="NovaPasta1\**" />
-    <Content Remove="NovaPasta1\**" />
-    <EmbeddedResource Remove="NovaPasta1\**" />
-    <None Remove="NovaPasta1\**" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="AspNetCore.Identity.MongoDbCore" Version="7.0.0" />
     <PackageReference Include="MailKit" Version="4.15.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="9.0.0" />

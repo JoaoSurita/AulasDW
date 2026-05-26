@@ -7,11 +7,8 @@ namespace VasosInteligentes.Models
         [BsonId]
         [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
         public string? Id { get; set; }
-
         public double Umidade { get; set; }
-
         public double Luminosidade { get; set; }
-
         public double Temperatura { get; set; }
 
         [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]

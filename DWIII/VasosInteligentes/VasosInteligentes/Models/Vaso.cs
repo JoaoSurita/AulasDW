@@ -9,18 +9,15 @@ namespace VasosInteligentes.Models
         [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
         public string? Id { get; set; }
         public string? Nome { get; set; }
-
         [Display(Name = "Planta")]
         public string? PlantaId { get; set; }
-
         [Display(Name = "Localização")]
-        public double Localizacao { get; set; } //trocar para string e tem que ir no mongo apagar o vaso e dps cadastrar dnv
-
+        public string? Localizacao { get; set; }
+       
         public string? UsuarioId { get; set; }
 
         public List<Planta> PlantaRelacionada { get; set; } = new List<Planta>();
 
-        public LeituraSensor? UltimaLeitura { get; set; } 
+        public LeituraSensor? UltimaLeitura { get; set; }
     }
 }
-

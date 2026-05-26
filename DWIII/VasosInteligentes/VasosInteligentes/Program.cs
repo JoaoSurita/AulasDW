@@ -9,15 +9,17 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
-// Conexão com o mongo
+//conexão com o mongoDb
 builder.Services.Configure<MongoSettings>(
-    builder.Configuration.GetSection("MongoConnection")
-);
+    builder.Configuration.GetSection("MongoConnection"));
 builder.Services.AddSingleton<ContextMongoDb>();
 
-//configuração do identity 
-var mongoSettings = builder.Configuration.GetSection("MongoConnection").Get<MongoSettings>();
+//configuração do Identity
+
+
+var mongoSettings = builder.Configuration
+    .GetSection("MongoConnection")
+    .Get<MongoSettings>();
 
 builder.Services.AddIdentity<ApplicationUser, ApplicationRole>
     (options =>
@@ -26,35 +28,34 @@ builder.Services.AddIdentity<ApplicationUser, ApplicationRole>
         options.Password.RequireNonAlphanumeric = false;
         options.Password.RequireDigit = false;
         options.Password.RequireUppercase = false;
-
     })
-    .AddMongoDbStores<ApplicationUser, ApplicationRole, string>(mongoSettings.ConnectionString, mongoSettings.Database)
+    .AddMongoDbStores<ApplicationUser, ApplicationRole, string>
+    (mongoSettings.ConnectionString, mongoSettings.Database)
     .AddDefaultTokenProviders();
 
-// Importando para Scaffolding e as RazorPages
+//importante para Scaffolding  e as RazorPages para o Identity
 builder.Services.AddRazorPages();
 
-// Configuração envio de email 
-builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettigs"));
+//configuração envio de email
+builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
 builder.Services.AddSingleton<EmailService>();
-
-
-//Simulador
+//simulador
 builder.Services.AddHostedService<SensorBackgroundService>();
 
 var app = builder.Build();
 
-// seeds 
+//seeds
 using(var Scope = app.Services.CreateScope())
 {
     var services = Scope.ServiceProvider;
     try
     {
         await IdentitySeeds.SeedRolesAndUser(services, "Admin@123");
+
     }
-    catch (Exception ex)
+    catch(Exception ex)
     {
-        Console.WriteLine($"Erro seed: {ex.Message}");
+        Console.WriteLine($"Erro Seed: {ex.Message}");
     }
 }
 
@@ -65,7 +66,8 @@ if (!app.Environment.IsDevelopment())
 }
 app.UseRouting();
 
-// Acrescentar app.UseAuthentication. Tem que ser antes do app.UseAuthorization
+//acrescentar app.UseAuthentication() antes do app.UseAuthorization();
+
 app.UseAuthentication();
 app.UseAuthorization();
 
@@ -78,6 +80,3 @@ app.MapControllerRoute(
 
 
 app.Run();
-
-
-// comentario teste 

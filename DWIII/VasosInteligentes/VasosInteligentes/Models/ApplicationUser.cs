@@ -3,7 +3,7 @@ using MongoDbGenericRepository.Attributes;
 
 namespace VasosInteligentes.Models
 {
-    [CollectionName("users")]
+    [CollectionName("Users")]
     public class ApplicationUser:MongoDbIdentityUser
     {
     }

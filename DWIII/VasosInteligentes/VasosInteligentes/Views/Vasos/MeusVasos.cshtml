@@ -1,12 +1,14 @@
-﻿@model IEnumerable<VasosInteligentes.Models.Planta>
+﻿@model IEnumerable<VasosInteligentes.Models.Vaso>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Meus Vasos";
 }
 
 <h1>Index</h1>
 
-
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
 <table class="table">
     <thead>
         <tr>
@@ -14,24 +16,23 @@
                 @Html.DisplayNameFor(model => model.Nome)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.UmidadeIdealMin)
+                @Html.DisplayNameFor(model => model.PlantaId)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.UmidadeIdealMax)
+                @Html.DisplayNameFor(model => model.Localizacao)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.LuminosidadeIdeal)
+                Temperatura
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.UltimaLeitura.Temperatura)
+                Umidade
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.UltimaLeitura.Umidade)
+                Luminosidade
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.UltimaLeitura.DataLeitura)
+                Data da Leitura
             </th>
-            
             <th></th>
         </tr>
     </thead>
@@ -43,13 +44,22 @@
                     @Html.DisplayFor(modelItem => item.Nome)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.UmidadeIdealMin)
+                    @item.PlantaRelacionada?.FirstOrDefault()?.Nome
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.UmidadeIdealMax)
+                    @Html.DisplayFor(modelItem => item.Localizacao)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.LuminosidadeIdeal)
+                    @item.UltimaLeitura.Temperatura
+                </td>
+                <td>
+                    @item.UltimaLeitura.Umidade
+                </td>
+                <td>
+                    @item.UltimaLeitura.Luminosidade
+                </td>
+                <td>
+                    @item.UltimaLeitura.DataLeitura.ToLocalTime().ToString("HH:mm:ss")
                 </td>
                 <td>
                     <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
