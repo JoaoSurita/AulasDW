@@ -1,0 +1,998 @@
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\appsettings.Development.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\appsettings.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.staticwebassets.runtime.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.staticwebassets.endpoints.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.exe
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.deps.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.runtimeconfig.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.pdb
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\DnsClient.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Humanizer.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Common.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\SharpCompress.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Snappier.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.CodeDom.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Resources.Extensions.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ZstdSharp.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.csproj.AssemblyReference.cache
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.AssemblyInfoInputs.cache
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.AssemblyInfo.cs
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.csproj.CoreCompileInputs.cache
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.MvcApplicationPartsAssemblyInfo.cache
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.RazorAssemblyInfo.cache
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.RazorAssemblyInfo.cs
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\scopedcss\bundle\VasosInteligentes.styles.css
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\scopedcss\projectbundle\VasosInteligentes.bundle.scp.css
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\2zip77bsbf-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\3agpsqobm2-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\hscgjlvfgk-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\f8c7giqa2f-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\mlcoz5jvx0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\x8fdd00en6-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\5r8on1zelg-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\mmpze3sloi-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\0u79ks2jlm-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\d6vlclks88-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\dtbxmnqe1r-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\eat7m38d8k-{0}-ub07r2b239-ub07r2b239.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\2ajmvxui75-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\c1lxopz3wt-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\sftucm3edu-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\zebzcugevc-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\3zfsywjznu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\93i1wnbtdn-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\k856nxxkca-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\1o2fmz4kdn-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ru3ymgp2xf-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\i19ooua8k6-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\kj0mr4w48z-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\wvlidez2iv-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\e4fwklv3qi-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\x1jwgkxpq0-{0}-06098lyss8-06098lyss8.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\h54qwagpjh-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ql3mgejk35-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\bt0la9t95i-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\cwhr543ttx-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\s5va44r30i-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\iajn7u23me-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\dflx7xmb0g-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\c86m9v5d2q-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\q5thhjwd2u-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\e74vzgfy2y-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\73b0txlf8t-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ivdkytwskc-{0}-493y06b0oq-493y06b0oq.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\a0guv7l7kn-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\6p00nreqgh-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\dtldw4di7d-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\yn0k48imwe-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\fqg378urqa-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\8akj2xxlwu-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\39h0zeka0b-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ruti77eu49-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\6bl58clkik-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\7r5mzm5aig-{0}-47otxtyo56-47otxtyo56.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ng8wun52fl-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\98dlpkkua9-{0}-356vix0kms-356vix0kms.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\36cn2ipuy1-{0}-83jwlth58m-83jwlth58m.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ioh2uuxb0e-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\n51fjfim2e-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\rgr3bcxura-{0}-ag7o75518u-ag7o75518u.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\5oyqppvdii-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\rzyel9rp21-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\z64m3kagth-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\fyb4qp9ksp-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\z0olf4k7a6-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\58q9u7akqy-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\j7tpvihtmz-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\fdvfvqm7aq-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\tki4fs7qtw-{0}-fnhv3vtqa5-fnhv3vtqa5.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\z46wfb8d12-{0}-fnhv3vtqa5-fnhv3vtqa5.gz
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.build.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.development.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\swae.build.ex.cache
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInt.8716D9E0.Up2Date
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\refint\VasosInteligentes.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.pdb
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.genruntimeconfig.cache
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\ref\VasosInteligentes.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MongoDbGenericRepository.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MailKit.dll
+C:\Fatec DSM\3_Semestre\desenvolvimento-web-iii\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MimeKit.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\appsettings.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.staticwebassets.runtime.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.staticwebassets.endpoints.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\DnsClient.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MailKit.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MimeKit.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MongoDbGenericRepository.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Snappier.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Resources.Extensions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.RazorAssemblyInfo.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.RazorAssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\scopedcss\bundle\VasosInteligentes.styles.css
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\scopedcss\projectbundle\VasosInteligentes.bundle.scp.css
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\2zip77bsbf-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\3agpsqobm2-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\hscgjlvfgk-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\f8c7giqa2f-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\mlcoz5jvx0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\x8fdd00en6-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\5r8on1zelg-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\mmpze3sloi-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\0u79ks2jlm-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\d6vlclks88-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\dtbxmnqe1r-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\eat7m38d8k-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\2ajmvxui75-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\c1lxopz3wt-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\sftucm3edu-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\zebzcugevc-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\3zfsywjznu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\93i1wnbtdn-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\k856nxxkca-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\1o2fmz4kdn-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ru3ymgp2xf-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\i19ooua8k6-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\kj0mr4w48z-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\wvlidez2iv-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\e4fwklv3qi-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\x1jwgkxpq0-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\h54qwagpjh-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ql3mgejk35-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\bt0la9t95i-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\cwhr543ttx-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\s5va44r30i-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\iajn7u23me-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\dflx7xmb0g-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\c86m9v5d2q-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\q5thhjwd2u-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\e74vzgfy2y-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\73b0txlf8t-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ivdkytwskc-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\a0guv7l7kn-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\6p00nreqgh-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\dtldw4di7d-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\yn0k48imwe-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\fqg378urqa-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\8akj2xxlwu-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\39h0zeka0b-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ruti77eu49-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\6bl58clkik-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\7r5mzm5aig-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ng8wun52fl-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\98dlpkkua9-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\36cn2ipuy1-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ioh2uuxb0e-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\n51fjfim2e-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\rgr3bcxura-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\5oyqppvdii-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\rzyel9rp21-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\z64m3kagth-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\fyb4qp9ksp-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\z0olf4k7a6-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\58q9u7akqy-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\j7tpvihtmz-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\fdvfvqm7aq-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\tki4fs7qtw-{0}-fnhv3vtqa5-fnhv3vtqa5.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\z46wfb8d12-{0}-fnhv3vtqa5-fnhv3vtqa5.gz
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInt.8716D9E0.Up2Date
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\refint\VasosInteligentes.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\DW-III\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\ref\VasosInteligentes.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.AssemblyInfo.cs
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.RazorAssemblyInfo.cache
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.RazorAssemblyInfo.cs
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.sourcelink.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\refint\VasosInteligentes.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.pdb
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\appsettings.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.staticwebassets.runtime.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.staticwebassets.endpoints.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.exe
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.deps.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.runtimeconfig.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\VasosInteligentes.pdb
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\DnsClient.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Humanizer.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MailKit.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MimeKit.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\MongoDbGenericRepository.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\Snappier.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Resources.Extensions.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\scopedcss\bundle\VasosInteligentes.styles.css
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\scopedcss\projectbundle\VasosInteligentes.bundle.scp.css
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\2zip77bsbf-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\3agpsqobm2-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\hscgjlvfgk-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\f8c7giqa2f-{0}-t1cqhe9u97-t1cqhe9u97.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\mlcoz5jvx0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\x8fdd00en6-{0}-sejl45xvog-sejl45xvog.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\5r8on1zelg-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\mmpze3sloi-{0}-xvp3kq03qx-xvp3kq03qx.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\0u79ks2jlm-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\d6vlclks88-{0}-22vffe00uq-22vffe00uq.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\dtbxmnqe1r-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\eat7m38d8k-{0}-qesaa3a1fm-qesaa3a1fm.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\2ajmvxui75-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\c1lxopz3wt-{0}-tmc1g35s3z-tmc1g35s3z.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\sftucm3edu-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\zebzcugevc-{0}-rxsg74s51o-rxsg74s51o.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\3zfsywjznu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\93i1wnbtdn-{0}-q9ht133ko3-q9ht133ko3.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\k856nxxkca-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\1o2fmz4kdn-{0}-gye83jo8yx-gye83jo8yx.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ru3ymgp2xf-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\i19ooua8k6-{0}-wl58j5mj3v-wl58j5mj3v.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\kj0mr4w48z-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\wvlidez2iv-{0}-d4r6k3f320-d4r6k3f320.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\e4fwklv3qi-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\x1jwgkxpq0-{0}-keugtjm085-keugtjm085.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\h54qwagpjh-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ql3mgejk35-{0}-zub09dkrxp-zub09dkrxp.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\bt0la9t95i-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\cwhr543ttx-{0}-43atpzeawx-43atpzeawx.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\s5va44r30i-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\iajn7u23me-{0}-ynyaa8k90p-ynyaa8k90p.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\dflx7xmb0g-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\c86m9v5d2q-{0}-c63t5i9ira-c63t5i9ira.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\q5thhjwd2u-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\e74vzgfy2y-{0}-4094rpi4f9-4094rpi4f9.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\73b0txlf8t-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ivdkytwskc-{0}-hd3gran6i8-hd3gran6i8.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\a0guv7l7kn-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\6p00nreqgh-{0}-ltid2c489k-ltid2c489k.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\dtldw4di7d-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\yn0k48imwe-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\fqg378urqa-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\8akj2xxlwu-{0}-u9q1upor1n-u9q1upor1n.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\39h0zeka0b-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ruti77eu49-{0}-4d85u1mtcx-4d85u1mtcx.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\6bl58clkik-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\7r5mzm5aig-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ng8wun52fl-{0}-48y08845bh-48y08845bh.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\98dlpkkua9-{0}-356vix0kms-356vix0kms.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\36cn2ipuy1-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\ioh2uuxb0e-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\n51fjfim2e-{0}-worgj0nhwm-worgj0nhwm.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\rgr3bcxura-{0}-gk0pw8i4co-gk0pw8i4co.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\5oyqppvdii-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\rzyel9rp21-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\z64m3kagth-{0}-m9qm4tazc0-m9qm4tazc0.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\fyb4qp9ksp-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\z0olf4k7a6-{0}-jjsuc0puko-jjsuc0puko.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\58q9u7akqy-{0}-9vr69e8ynj-9vr69e8ynj.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\j7tpvihtmz-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\fdvfvqm7aq-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\tki4fs7qtw-{0}-fnhv3vtqa5-fnhv3vtqa5.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\compressed\z46wfb8d12-{0}-fnhv3vtqa5-fnhv3vtqa5.gz
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInt.8716D9E0.Up2Date
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\VasosInteligentes.genruntimeconfig.cache
+C:\Users\bruno\Desktop\AulasDW\DWIII\VasosInteligentes\VasosInteligentes\VasosInteligentes\obj\Debug\net9.0\ref\VasosInteligentes.dll

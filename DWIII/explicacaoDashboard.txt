@@ -1,0 +1,238 @@
+================================================================================
+  ROTEIRO DE ESTUDO — ATIVIDADE: CRIAÇÃO DO DASHBOARD
+  Projeto: Vasos Inteligentes
+================================================================================
+
+VISÃO GERAL
+───────────
+Nesta atividade foram feitas alterações em 2 arquivos existentes e criado
+1 arquivo novo. O objetivo foi criar uma tela de Dashboard exclusiva para o
+usuário comum, exibindo um gráfico de barras empilhadas com a média de
+luminosidade de cada vaso separada por período do dia (Manhã, Tarde e Noite).
+
+
+================================================================================
+  ARQUIVO 1 — Views/Shared/_partialUsuario.cshtml  (ALTERADO)
+================================================================================
+
+O QUE É ESSE ARQUIVO?
+─────────────────────
+É uma "partial view", ou seja, um fragmento de HTML reutilizável que é
+incluído dentro do _Layout.cshtml (o layout principal do site). Ele é
+responsável por renderizar os itens da navbar que são exclusivos do
+usuário comum (role "Usuario"). O administrador não vê esses itens porque
+o bloco inteiro está dentro de uma condição que verifica a role do usuário.
+
+O QUE FOI ALTERADO?
+───────────────────
+Foi adicionado um novo item na navbar, o link "Dashboard".
+
+ANTES (o arquivo tinha apenas isso):
+  - Link "Vasos" → aponta para a action MeusVasos do VasosController
+
+DEPOIS (o que foi adicionado):
+  - Link "Dashboard" → aponta para a action Dashboard do VasosController
+
+COMO FUNCIONA A RESTRIÇÃO DE ACESSO?
+─────────────────────────────────────
+O arquivo verifica duas condições antes de exibir qualquer item:
+  1. User.Identity.IsAuthenticated → o usuário precisa estar logado
+  2. User.IsInRole("Usuario")      → o usuário precisa ter a role "Usuario"
+
+Como o administrador tem a role "Administrador" e não "Usuario", ele nunca
+entra nesse bloco, logo nunca vê o link "Dashboard" na navbar.
+
+COMO EXPLICAR:
+──────────────
+"Adicionei o link Dashboard na navbar dentro da partial view _partialUsuario.
+Esse arquivo já controlava os itens visíveis apenas para o usuário comum.
+Como o novo link está dentro da verificação User.IsInRole("Usuario"), o
+administrador não tem acesso a ele."
+
+
+================================================================================
+  ARQUIVO 2 — Controllers/VasosController.cs  (ALTERADO)
+================================================================================
+
+O QUE É ESSE ARQUIVO?
+─────────────────────
+É o controller responsável por todas as ações relacionadas aos vasos.
+Ele já tinha métodos como Index (admin), MeusVasos, Details, Create, Edit
+e Delete. Foi adicionado um novo método chamado Dashboard.
+
+O QUE FOI ADICIONADO?
+─────────────────────
+Um novo método público chamado Dashboard(), que é uma action do tipo GET.
+
+PASSO A PASSO DO QUE O MÉTODO FAZ:
+
+  1. AUTORIZAÇÃO
+     O atributo [Authorize(Roles = "Usuario")] garante que apenas usuários
+     com a role "Usuario" possam acessar essa action. Se o administrador
+     tentar acessar diretamente pela URL, ele recebe acesso negado.
+
+  2. OBTÉM O USUÁRIO LOGADO
+     Usa o _userManager.GetUserAsync(User) para pegar os dados do usuário
+     que está na sessão. Se por algum motivo não estiver logado, redireciona
+     para a tela de Login.
+
+  3. BUSCA OS VASOS DO USUÁRIO
+     Faz uma consulta no MongoDB filtrando apenas os vasos cujo campo
+     UsuarioId é igual ao Id do usuário logado. Assim cada usuário vê
+     apenas os seus próprios vasos no gráfico.
+
+  4. PARA CADA VASO, CALCULA AS MÉDIAS DE LUMINOSIDADE POR PERÍODO
+     Para cada vaso encontrado, o método:
+       a) Busca todas as leituras de sensor daquele vaso na coleção
+          LeituraSensor do MongoDB.
+       b) Converte o horário de UTC para o horário local com .ToLocalTime()
+          (importante porque as leituras são salvas em UTC pelo SensorBackground).
+       c) Filtra as leituras pelo horário:
+            - Manhã: hora >= 6 e hora < 12   (06:00 até 11:59)
+            - Tarde: hora >= 12 e hora < 18  (12:00 até 17:59)
+            - Noite: hora >= 18              (18:00 até 23:59)
+       d) Calcula a média de Luminosidade de cada grupo com .Average().
+          Se não houver leituras no período, usa 0 para não quebrar o gráfico.
+       e) Arredonda para 2 casas decimais com Math.Round().
+
+  5. ENVIA OS DADOS PARA A VIEW VIA VIEWBAG
+     Os dados são serializados para JSON usando System.Text.Json e enviados
+     via ViewBag em quatro variáveis:
+       - ViewBag.NomesVasos   → lista com os nomes dos vasos
+       - ViewBag.MediasManha  → lista com a média de Manhã de cada vaso
+       - ViewBag.MediasTarde  → lista com a média de Tarde de cada vaso
+       - ViewBag.MediasNoite  → lista com a média de Noite de cada vaso
+
+     Cada lista tem um valor por vaso, na mesma ordem. Isso permite que o
+     ApexCharts monte as barras corretamente.
+
+  6. RETORNA A VIEW
+     Chama return View(), que vai renderizar o arquivo Dashboard.cshtml
+     localizado em Views/Vasos/.
+
+COMO EXPLICAR:
+──────────────
+"Adicionei o método Dashboard no VasosController. Ele é restrito à role
+Usuario com o atributo Authorize. O método busca os vasos do usuário logado,
+e para cada vaso busca todas as leituras de sensor. Depois filtra essas
+leituras por período do dia — manhã, tarde e noite — usando o horário local
+da leitura, e calcula a média de luminosidade de cada período. Por fim,
+serializa esses dados para JSON e os passa para a View via ViewBag."
+
+
+================================================================================
+  ARQUIVO 3 — Views/Vasos/Dashboard.cshtml  (CRIADO)
+================================================================================
+
+O QUE É ESSE ARQUIVO?
+─────────────────────
+É a View correspondente ao método Dashboard do VasosController. Por convenção
+do ASP.NET MVC, como o método está no VasosController, a View fica na pasta
+Views/Vasos/. O arquivo é novo — não existia antes no projeto.
+
+O QUE ELE FAZ?
+──────────────
+Exibe o gráfico de barras empilhadas usando a biblioteca ApexCharts.
+
+PASSO A PASSO:
+
+  1. RECEBE OS DADOS DO VIEWBAG
+     Usa @Html.Raw(ViewBag.NomesVasos) e similares para pegar os JSONs
+     enviados pelo controller e atribuí-los a variáveis JavaScript.
+     O Html.Raw é necessário para que o Razor não escape os caracteres
+     do JSON (como aspas e colchetes).
+
+  2. IMPORTA O APEXCHARTS VIA CDN
+     Dentro da seção @section Scripts, importa a biblioteca ApexCharts
+     de um servidor externo (CDN). Isso evita a necessidade de instalar
+     a biblioteca no projeto.
+
+  3. CONFIGURA O GRÁFICO
+     Cria um objeto de configuração com as seguintes definições:
+
+       - series: as três séries de dados (Manhã, Tarde, Noite), cada uma
+         com seu array de médias vindo do ViewBag.
+
+       - chart.type = "bar" + chart.stacked = true: define que é um gráfico
+         de barras verticais empilhadas. O "stacked" faz os três segmentos
+         (Manhã, Tarde, Noite) se empilharem dentro de uma única barra por vaso.
+
+       - colors: define as cores de cada série:
+           Manhã → azul-claro  (#4FC3F7)
+           Tarde → laranja     (#FFB74D)
+           Noite → azul-escuro (#1565C0)
+
+       - xaxis.categories: recebe o array de nomes dos vasos, que aparecem
+         como rótulos abaixo de cada barra.
+
+       - legend: posiciona a legenda (Manhã / Tarde / Noite) no topo.
+
+       - tooltip: formata o valor exibido ao passar o mouse, adicionando
+         a unidade "lux".
+
+       - dataLabels: exibe o valor numérico dentro de cada segmento da barra.
+
+  4. RENDERIZA O GRÁFICO
+     Cria uma instância do ApexCharts apontando para o elemento HTML com
+     id="grafico-dashboard" e chama .render() para exibir o gráfico.
+
+POR QUE CADA BARRA REPRESENTA UM VASO?
+───────────────────────────────────────
+Porque o xaxis.categories tem um nome por vaso, e cada série (Manhã, Tarde,
+Noite) tem um valor por vaso — todos na mesma ordem. O ApexCharts entende
+que cada posição do array corresponde a uma barra, e empilha os três valores
+(manhã + tarde + noite) dentro dessa barra.
+
+COMO EXPLICAR:
+──────────────
+"Criei a View Dashboard.cshtml na pasta Views/Vasos. Ela recebe os dados do
+controller via ViewBag, que já chegam em formato JSON. Usei a biblioteca
+ApexCharts com o tipo bar e a opção stacked true para criar o gráfico de
+barras empilhadas. Cada barra representa um vaso do usuário, e cada segmento
+da barra representa a média de luminosidade de um período: manhã, tarde e noite.
+Os nomes dos vasos aparecem abaixo de cada barra no eixo X."
+
+
+================================================================================
+  PERGUNTAS QUE PODEM SER FEITAS — E COMO RESPONDER
+================================================================================
+
+P: Por que o administrador não vê o Dashboard?
+R: Porque o link na navbar só aparece dentro de User.IsInRole("Usuario") na
+   partial view, e a action no controller tem [Authorize(Roles = "Usuario")].
+   O administrador tem a role "Administrador", então é bloqueado nos dois pontos.
+
+P: Como as leituras são separadas por período?
+R: O controller filtra as leituras pelo horário local da DataLeitura. Leituras
+   entre 6h e 11h59 vão para Manhã, entre 12h e 17h59 para Tarde, e a partir
+   das 18h para Noite.
+
+P: Por que usa .ToLocalTime()?
+R: Porque o SensorBackground salva as leituras com DateTime.UtcNow (horário
+   universal). Para comparar com os horários do dia no Brasil (UTC-3), é
+   necessário converter para o horário local com .ToLocalTime().
+
+P: O que é o ViewBag?
+R: É uma forma de passar dados do controller para a View de maneira dinâmica,
+   sem precisar criar um Model específico. No Dashboard, ele carrega os arrays
+   de nomes e médias já em formato JSON.
+
+P: O que é "stacked" no ApexCharts?
+R: É a opção que faz os segmentos de cada série se empilharem dentro de uma
+   única barra, em vez de ficarem lado a lado. Assim, a barra de cada vaso
+   mostra os três períodos (Manhã, Tarde, Noite) sobrepostos verticalmente.
+
+P: E se um vaso não tiver leituras em algum período?
+R: O código verifica se há leituras antes de calcular a média. Se não houver,
+   usa o valor 0, para que o gráfico não quebre e simplesmente não exiba
+   aquele segmento naquela barra.
+
+================================================================================
+  RESUMO RÁPIDO DOS ARQUIVOS
+================================================================================
+
+  _partialUsuario.cshtml  → adicionado o link "Dashboard" na navbar
+  VasosController.cs      → adicionado o método Dashboard() com toda a lógica
+  Dashboard.cshtml        → criado do zero com o gráfico ApexCharts
+
+================================================================================

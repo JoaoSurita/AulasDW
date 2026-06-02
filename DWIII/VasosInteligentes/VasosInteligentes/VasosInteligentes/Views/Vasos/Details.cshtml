@@ -1,0 +1,130 @@
+﻿@using System.Text.Json
+@model VasosInteligentes.Models.Vaso
+
+@{
+    ViewData["Title"] = "Details";
+
+    // Recupera o histórico que esta na viewbag
+    var historico = ViewBag.HistoricoLeituras as List<VasosInteligentes.Models.LeituraSensor> ?? new List<VasosInteligentes.Models.LeituraSensor>();
+
+    // Converte os dados para JSON
+    var datasJson = JsonSerializer.Serialize(historico.Select(l => l.DataLeitura.ToLocalTime().ToString("yyyy-MM-ddTHH:mm.ss")));
+    var umidadeJson = JsonSerializer.Serialize(historico.Select(u => u.Umidade));
+    var temperaturaJson = JsonSerializer.Serialize(historico.Select(t => t.Temperatura));
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>Detalhes do Vaso: <span class="text-success">@Model.Nome</span></h2>
+        <a asp-action="MeusVasos" class="btn btn-outline-secondary">Voltar para a Lista</a>
+    </div>
+
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <div class="card shadow-sm h-100">
+                <div class="card-body">
+                    <h5 class="card-title text-secondary border-bottom pb-2">Configurações Gerais</h5>
+                    <p class="card-text"><strong>Localização:</strong> @Model.Localizacao</p>
+                    <p class="card-text">
+                        <strong>Planta Associada:</strong>
+                        @(Model.PlantaRelacionada.FirstOrDefault()?.Nome ?? "Nenhuma")
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card shadow-sm h-100 bg-light">
+                <div class="card-body d-flex flex-column justify-content-center text-center">
+                    <h6 class="text-muted">Total de registros nas últimas 24h</h6>
+                    <h2 class="display-4 text-success fw-bold">@historico.Count</h2>
+                    <small class="text-muted">Alimentado pelo simulador automático</small>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <h5 class="card-title text-secondary border-bottom pb-2 mb-3">Monitoramento das Últimas 24 Horas</h5>
+
+            @if (historico.Any())
+            {
+                <div id="graficoSensores"></div>
+            }
+            else
+            {
+                <div class="alert alert-warning text-center my-4" role="alert">
+                    Ainda não há histórico de dados coletados para este vaso nas últimas 24 horas.
+                    Certifique-se de que o simulador de sensores está rodando em segundo plano.
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+<script>
+    // Inicializa os dados vindos do C# injetando os JSONs nas variáveis JS
+    const labelDatas = @Html.Raw(datasJson);
+    const dadosUmidade = @Html.Raw(umidadeJson);
+    const dadosTemperatura = @Html.Raw(temperaturaJson);
+
+    if (labelDatas.length > 0) {
+        // Configurações do ApexCharts
+        var options = {
+            chart: {
+                height: 380,
+                type: 'line',
+                toolbar: {
+                    show: true
+                }
+            },
+            colors: ['#008FFB', '#FF4560'],
+            stroke: {
+                curve: 'smooth',
+                width: 3
+            },
+            series: [
+                {
+                    name: 'Umidade do Solo (%)',
+                    data: dadosUmidade
+                },
+                {
+                    name: 'Temperatura (°C)',
+                    data: dadosTemperatura
+                }
+            ],
+            xaxis: {
+                type: 'datetime',
+                categories: labelDatas,
+                labels: {
+                    datetimeUTC: false,
+                    style: { colors: '#6c757d' }
+                }
+            },
+            yaxis: {
+                title: { text: 'Valores Coletados' },
+                labels: { style: { colors: '#6c757d' } }
+            },
+            tooltip: {
+                x: { format: 'dd/MM/yyyy HH:mm:ss' }
+            },
+            dataLabels: {
+                enabled: false
+            },
+            grid: {
+                borderColor: '#e7e7e7',
+                row: {
+                    colors: ['#f3f3f3', 'transparent'],
+                    opacity: 0.5
+                },
+            }
+        };
+
+        // Renderiza o gráfico na tela
+        var chart = new ApexCharts(document.querySelector("#graficoSensores"), options);
+        chart.render();
+    }
+</script>

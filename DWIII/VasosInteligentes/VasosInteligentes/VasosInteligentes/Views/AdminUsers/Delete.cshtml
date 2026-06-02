@@ -1,0 +1,20 @@
+﻿@model VasosInteligentes.Models.ApplicationUser
+
+<h2 class="mb-4 text-danger">Excluir Usuário</h2>
+
+<div class="alert alert-warning">
+    Tem certeza que deseja excluir este usuário?
+</div>
+
+<ul class="list-group mb-3 w-50">
+    <li class="list-group-item">
+        <strong>Email:</strong> @Model.Email
+    </li>
+</ul>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+
+    <button type="submit" class="btn btn-danger">Sim, excluir</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

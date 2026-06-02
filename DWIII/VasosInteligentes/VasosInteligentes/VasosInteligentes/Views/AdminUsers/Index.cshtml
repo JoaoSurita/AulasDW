@@ -1,0 +1,31 @@
+﻿@model List<VasosInteligentes.Models.ApplicationUser>
+
+<h2 class="mb-4">Usuários</h2>
+
+<a asp-action="Create" class="btn btn-primary mb-3">Novo Usuário</a>
+
+<table class="table table-striped table-bordered">
+    <thead class="table">
+        <tr>
+            <th>Email</th>
+            <th style="width: 180px;">Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Email</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@user.Id" class="btn btn-sm btn-info text-light">
+                        Editar
+                    </a>
+
+                    <a asp-action="Delete" asp-route-id="@user.Id" class="btn btn-sm btn-danger">
+                        Excluir
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
